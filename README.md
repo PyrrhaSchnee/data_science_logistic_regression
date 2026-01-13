@@ -8,15 +8,15 @@ A complete implementation of a **multi-class logistic regression classifier** bu
 
 ## 📋 Table of Contents
 
-- [Overview](#overview)
-- [Features](#features)
-- [Project Structure](#project-structure)
-- [Installation](#installation)
-- [Usage](#usage)
-- [Technical Implementation](#technical-implementation)
-- [Visualizations](#visualizations)
-- [Skills Demonstrated](#skills-demonstrated)
-- [License](#license)
+- [Overview](#-overview)
+- [Features](#-features)
+- [Project Structure](#-project-structure)
+- [Installation](#-installation)
+- [Usage](#-usage)
+- [Technical Implementation](#-technical-implementation)
+- [Visualizations](#-visualizations)
+- [Skills Demonstrated](#-skills-demonstrated)
+- [License](#-license)
 
 ---
 
@@ -236,7 +236,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 👤 Author
 
-**PyrrhaSchnee**
+**Yang**
 
 - GitHub: [@PyrrhaSchnee](https://github.com/PyrrhaSchnee)
 
